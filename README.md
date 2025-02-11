@@ -6,7 +6,7 @@ A major purpose of the Question Answering system (QA) is to encourage research i
 
 This project proposes a system to solve this by using a deep learning approach consisting of a memory network of comprising of two different models:- a unidirectional long short term memory (LSTM) and a bidirectional long short term memory (BiLSTM) for intelligent learning from a corpus consisting of question-answer pairs along with a context. Results from the experiments done on these models show that the BiLSTM based memory network model was able to understand the context better and capture relevant pieces of information when compared to the LSTM based memory network model. 
 
-#Dataset
+# Dataset
 
 Used the SQuAD Dataset. See "Importing SQuAD Dataset" in code.
 
