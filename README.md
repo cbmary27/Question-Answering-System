@@ -1,4 +1,4 @@
-# Intrtoduction
+# Introduction
 
 The task of Question Answering (QA) in information retrieval is to answer questions intelligently using either pre-structured databases or natural language documents to provide correct answers to questions asked by humans. As opposed to a search engine which provides a list of documents as the result, a QA system presents only the requested information in a summarized and concise format. 
 
